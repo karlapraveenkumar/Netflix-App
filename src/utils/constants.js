@@ -23,9 +23,3 @@ export const SUPPORTED_LANGUAGES = [
   {identifier : "kannada", name : "Kannada"},
   {identifier : "malayalam", name : "Malayalam"}
 ];
-
-
-
-//export const GEMINI_KEY = "AIzaSyBFbTHoF04_KL8q57SPAkLaRvT4_eo3OGw";
-
-//export const GEMINI_KEY = process.env.REACT_APP_GEMINI_KEY;
